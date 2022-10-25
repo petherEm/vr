@@ -12,7 +12,7 @@ const Banner = () => {
               data-aos="fade-down"
               data-aos-delay="600"
             >
-              Let's Explore <br />
+              Let&apos;s Explore <br />
               Three-Dimensional Visually
             </h1>
             <p
